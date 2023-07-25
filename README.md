@@ -1,11 +1,10 @@
-# Real-Life-Controls
-Control mouse and keyboard through real life poses
+# Gesture-Recognition-For-Computer-Control
+Controlling computer inputs (e.g. mouse & keyboard) using gesture recognition, with only a camera.
 
 
 # Product Demo
 
-https://github.com/matt-wats/Real-Life-Controls/assets/112960646/edb233b0-7087-409d-b23d-b0749b8f0d97
-
+https://github.com/matt-wats/Gesture-Recognition-For-Computer-Control/assets/112960646/0ba356ef-c582-4a57-b13d-0117093939f1
 
 
 # Motivation
@@ -99,8 +98,7 @@ At the beginning of the program, the user holds their right hand up to "center" 
 e.g. To move the mouse down, you hold your wrist below the center. The farther away from the center your wrist is, the faster the mouse moves.
 
 Here is a plot of how the mouse moves vs. how far your wrist is from the center (the red line and slope are adjustable)
-![Mouse Movement Graph](https://github.com/matt-wats/Real-Life-Controls/assets/112960646/8fd28af3-c4f1-4681-969c-cd3b4d256739)
-
+![Mouse Movement Graph](https://github.com/matt-wats/Gesture-Recognition-For-Computer-Control/assets/112960646/dd335bc2-5926-40ed-b6e9-750d50e899ab)
 
 3. Clicking
 
